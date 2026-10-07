@@ -1,308 +1,426 @@
+<!-- ===================================================== -->
+
+<!--                  ANIMATED HEADER                       -->
+
+<!-- ===================================================== -->
+
 <div align="center">
 
-<!-- HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:2DD4BF&height=220&section=header&text=Muhammad%20Ahmad&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,35:0F766E,70:14B8A6,100:2DD4BF&height=250&section=header&text=MUHAMMAD%20AHMAD&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Data&descAlignY=60&descSize=19" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Analyst+%26+Visualizer;Machine+Learning+Model+Trainer;Backend+Developer+with+Flask;Building+Real-World+AI+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=2DD4BF&center=true&vCenter=true&width=850&height=55&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Python+Developer;Data+Analyst+%7C+Data+Visualizer;Backend+Developer;Building+Real-World+AI+Solutions;Turning+Ideas+Into+Intelligent+Systems" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0F766E?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-14B8A6?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-0D9488?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-115E59?style=for-the-badge&logo=flask&logoColor=white"/>
 
 <br><br>
 
 <a href="https://github.com/AHMAD-0702">
-<img src="https://img.shields.io/github/followers/AHMAD-0702?label=Followers&style=for-the-badge&color=0F766E&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/AHMAD-0702?style=for-the-badge&label=Followers&color=14B8A6&labelColor=042F2E"/>
 </a>
+
 <a href="https://github.com/AHMAD-0702?tab=repositories">
-<img src="https://img.shields.io/github/stars/AHMAD-0702?label=Stars&style=for-the-badge&color=14B8A6&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/AHMAD-0702">
-<img src="https://komarev.com/ghpvc/?username=AHMAD-0702&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=AHMAD-0702&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================================================== -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<!--                    WHO AM I                            -->
 
-Hi! I'm **Muhammad Ahmad**, a **Bachelor of Artificial Intelligence (BSAI)** student passionate about building practical solutions using Artificial Intelligence (AI), Machine Learning (ML), Python, and data.
-
-I enjoy transforming ideas into working projects — from machine learning models and data analysis to Python applications and web-based systems.
-
-### 🎓 Currently
-
-* 🎓 7th Semester **BS Artificial Intelligence**
-* 🤖 Learning and building **Artificial Intelligence & Machine Learning** solutions
-* 🐍 Working with **Python** for development and data
-* 📊 Exploring **Data Visualization & Data Analytics**
-* 🌐 Building backend applications with **Flask**
-* 🧠 Practicing Machine Learning model training and evaluation
-* 🚀 Turning university concepts into practical projects
-
-<br clear="right"/>
-
----
-
-## 🧠 What I Work On
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence & ML
-
-* Machine Learning
-* Data Preprocessing
-* Feature Engineering
-* Model Training
-* Model Evaluation
-* Natural Language Processing (NLP)
-* Computer Vision
-* Generative AI
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data & Development
-
-* Data Analysis
-* Data Visualization
-* Python Development
-* Flask Web Applications
-* GUI Applications
-* Database Fundamentals
-* Git & GitHub
-* Jupyter Notebook
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,flask,php,git,github,linux,vscode" />
-
-</p>
-
-### 🤖 Artificial Intelligence & Data
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-0F766E?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,git,github,linux,blender,ps,ai" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎓 Superior University AI Projects
-
-A collection of Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and data-related university tasks and projects.
-
-**Technologies:**
-
-`Python` `Jupyter` `NumPy` `Pandas` `Scikit-learn`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🫀 Organ Donation System
-
-A web-based system designed to manage organ donors and recipients through a centralized platform.
-
-**Technologies:**
-
-`HTML` `CSS` `Web Development`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⌨️ Typing Speed Test
-
-A Python-based Graphical User Interface (GUI) application that measures typing speed, accuracy, errors, and Words Per Minute (WPM).
-
-**Technologies:**
-
-`Python` `GUI` `Application Development`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 50 Days of Machine Learning
-
-A structured hands-on journey covering Machine Learning concepts through practical Python and Jupyter Notebook implementations.
-
-**Technologies:**
-
-`Python` `Machine Learning` `Jupyter` `Data Science`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💼 Skillify Zone Internship
-
-Machine Learning tasks completed during an internship, covering preprocessing, feature engineering, model training, and evaluation.
-
-**Technologies:**
-
-`Python` `Machine Learning` `Jupyter`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Visualization
-
-Hands-on work with data analysis and visualization using Python libraries such as Pandas, NumPy, and Matplotlib.
-
-**Technologies:**
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 📈 GitHub Analytics
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHMAD-0702&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=14B8A6&icon_color=2DD4BF&text_color=C9D1D9" />
+## 👨‍💻 WHO AM I?
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-0702&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" />
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMAD-0702&bg_color=0D1117&color=14B8A6&line=2DD4BF&point=FFFFFF&area=true&area_color=0F766E&hide_border=true" width="95%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=14B8A6&center=true&vCenter=true&width=700&lines=Student+%E2%86%92+Developer+%E2%86%92+AI+Builder;Learning+%E2%86%92+Building+%E2%86%92+Deploying;Data+%E2%86%92+Models+%E2%86%92+Intelligent+Solutions"/>
 
 </div>
 
----
+<br>
 
-## 🐍 Contribution Snake
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<div align="center">
+### 🧠 Muhammad Ahmad
 
-<img src="https://raw.githubusercontent.com/AHMAD-0702/AHMAD-0702/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AHMAD-0702&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
-## 🎯 Current Goals
+I'm a **Bachelor of Artificial Intelligence (BSAI)** student focused on building practical solutions with:
 
 ```text
 Artificial Intelligence
-        │
-        ├── Machine Learning
-        │      ├── Model Training
-        │      ├── Evaluation
-        │      └── Optimization
-        │
-        ├── Data
-        │      ├── Analysis
-        │      ├── Visualization
-        │      └── Processing
-        │
-        ├── Python Development
-        │      ├── Flask
-        │      ├── Automation
-        │      └── Applications
-        │
-        └── Real-World Projects
-               ├── AI Solutions
-               ├── ML Applications
-               └── Data-Driven Systems
+        ↓
+Machine Learning
+        ↓
+Data Analysis
+        ↓
+Python Development
+        ↓
+Real-World Applications
+```
+
+I enjoy taking an idea from **concept → code → working system**.
+
+My goal is to continuously improve my engineering skills while building meaningful AI and software projects.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-14B8A6?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                 CURRENT FOCUS                          -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+## ⚡ CURRENTLY BUILDING
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=2DD4BF&center=true&vCenter=true&width=750&lines=Machine+Learning+Projects;Data+Visualization+Systems;Python+Applications;AI-Powered+Solutions;Backend+Applications;End-to-End+AI+Projects"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+Artificial Intelligence
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**ML**
+
+Machine Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**DATA**
+
+Analytics & Visualization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**PYTHON**
+
+Development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  TECH STACK                           -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+## 🛠️ MY TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow,pytorch,sklearn,pandas,numpy,html,css,php,git,github,linux,vscode&perline=7"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=jupyter,anaconda,pycharm,blender,ps,ai&perline=6"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                 SKILL MARQUEE                         -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header&width=100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=300&color=14B8A6&center=true&vCenter=true&width=900&lines=Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Analysis+%E2%80%A2+Data+Visualization+%E2%80%A2+Flask+%E2%80%A2+Git+%E2%80%A2+GitHub"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=footer&width=100%"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  PROJECT SHOWCASE                     -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🚀 PROJECT SHOWCASE
+
+### Turning ideas into working systems.
+
+</div>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Machine Learning</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Models-0F766E?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+• Data preprocessing
+• Feature engineering
+• Model training
+• Model evaluation
+• Predictive systems
+
+**Stack:**
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📊 Data Visualization</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data-Visualization-14B8A6?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+• Data cleaning
+• Exploratory Data Analysis (EDA)
+• Statistical analysis
+• Visualization
+• Data storytelling
+
+**Stack:**
+`Pandas` `NumPy` `Matplotlib` `Jupyter`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Python Web Applications</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-Flask-115E59?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+• Backend development
+• Web applications
+• Application logic
+• Form processing
+• Database integration
+
+**Stack:**
+`Python` `Flask` `HTML` `CSS`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧪 AI Experiments</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-Experiments-0D9488?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+• NLP (Natural Language Processing)
+• Computer Vision
+• AI automation
+• Model experimentation
+• Intelligent applications
+
+**Stack:**
+`Python` `TensorFlow` `Scikit-learn`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ===================================================== -->
+
+<!--              FEATURED GITHUB PROJECTS                 -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+# ⭐ FEATURED WORK
+
+</div>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠
+
+**50 Days of Machine Learning**
+
+Hands-on Machine Learning journey with practical Python implementations.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⌨️
+
+**Typing Speed Test**
+
+Python-based application for measuring typing speed and accuracy.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🫀
+
+**Organ Donation System**
+
+Web-based system designed to manage organ donation workflows.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                   DEVELOPER TERMINAL                  -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 💻 DEVELOPER MODE
+
+</div>
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│                    MUHAMMAD@AI-DEV                       │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  $ whoami                                                │
+│  Muhammad Ahmad                                           │
+│                                                           │
+│  $ role                                                   │
+│  AI Developer | ML Enthusiast | Python Developer          │
+│                                                           │
+│  $ currently_learning                                     │
+│  Machine Learning + Data + Backend Development            │
+│                                                           │
+│  $ building                                               │
+│  Real-world AI & Data-driven Applications                 │
+│                                                           │
+│  $ mindset                                                │
+│  Learn → Build → Test → Improve → Repeat                  │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🌐 Let's Connect
+<!-- ===================================================== -->
+
+<!--                  GITHUB ANALYTICS                     -->
+
+<!-- ===================================================== -->
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahmad0702/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 📊 GITHUB ANALYTICS
 
-<a href="https://github.com/AHMAD-0702">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://ahmadclimex.tiiny.site/">
-<img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=AHMAD-0702&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=2DD4BF&text_color=C9D1D9"/>
 
-<a href="mailto:ahmadashraf0702@gmail.com">
-<img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-0702&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9"/>
 
 </div>
 
@@ -310,10 +428,132 @@ Artificial Intelligence
 
 <div align="center">
 
-### 💡 "Turning Data Into Insights & Ideas Into Intelligent Solutions."
+## 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMAD-0702&bg_color=0D1117&color=14B8A6&line=2DD4BF&point=FFFFFF&area=true&area_color=0F766E&hide_border=true&custom_title=Muhammad%20Ahmad's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  TROPHIES                             -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🏆 ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=AHMAD-0702&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                CONTRIBUTION SNAKE                     -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/AHMAD-0702/AHMAD-0702/output/github-contribution-grid-snake.svg" width="90%"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                    ROADMAP                            -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🗺️ MY DEVELOPMENT JOURNEY
+
+</div>
+
+```text
+                         ┌─────────────────────┐
+                         │     AI ENGINEERING  │
+                         └──────────┬──────────┘
+                                    │
+                ┌───────────────────┼───────────────────┐
+                ↓                   ↓                   ↓
+          ┌──────────┐       ┌──────────┐       ┌──────────┐
+          │   DATA   │       │    ML    │       │ BACKEND  │
+          └────┬─────┘       └────┬─────┘       └────┬─────┘
+               │                  │                  │
+               ↓                  ↓                  ↓
+          Analysis            Training            Flask
+          Visualization       Evaluation          APIs
+          Processing           Optimization        Systems
+               │                  │                  │
+               └──────────────────┼──────────────────┘
+                                  ↓
+                         ┌──────────────────┐
+                         │ REAL-WORLD AI    │
+                         │    PROJECTS      │
+                         └──────────────────┘
+```
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  CONNECT                              -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🌐 LET'S CONNECT
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:14B8A6,100:0F766E&height=120&section=footer"/>
+<a href="https://www.linkedin.com/in/ahmad0702/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/AHMAD-0702">
+
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="mailto:ahmadashraf0702@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=14B8A6&center=true&vCenter=true&width=700&lines=Open+to+Learning;Open+to+Collaboration;Open+to+Interesting+AI+Projects"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ LEARN. BUILD. INNOVATE. REPEAT.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AHMAD-0702&style=for-the-badge&color=0F766E&label=VISITORS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,35:14B8A6,70:0F766E,100:042F2E&height=150&section=footer" width="100%"/>
 
 </div>
