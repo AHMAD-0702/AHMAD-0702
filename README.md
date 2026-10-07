@@ -1,99 +1,79 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Ahmad — Front-End Developer" width="100%"/>
+<img src="assets/header.svg" alt="Muhammad Ahmad — AI Generative & ML Engineer" width="100%"/>
 
-<img src="assets/roles.svg" alt="Typing roles" width="100%"/>
+<img src="assets/roles.svg" alt="Roles" width="100%"/>
 
-<a href="https://github.com/AHMAD-0702"><img src="https://komarev.com/ghpvc/?username=AHMAD-0702&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" alt="views"/></a>
-<a href="https://github.com/AHMAD-0702?tab=followers"><img src="https://img.shields.io/github/followers/AHMAD-0702?style=for-the-badge&logo=github&color=00f5ff&labelColor=0d1117" alt="followers"/></a>
-<a href="https://github.com/AHMAD-0702?tab=stars"><img src="https://img.shields.io/github/stars/AHMAD-0702?style=for-the-badge&logo=github&color=ff4ecd&labelColor=0d1117" alt="stars"/></a>
+<a href="https://github.com/AHMAD-0702"><img src="https://komarev.com/ghpvc/?username=AHMAD-0702&label=PROFILE+VIEWS&color=00ff9c&labelColor=070b10&style=for-the-badge" alt="views"/></a>
+<a href="https://github.com/AHMAD-0702?tab=followers"><img src="https://img.shields.io/github/followers/AHMAD-0702?style=for-the-badge&logo=github&color=00e5ff&labelColor=070b10" alt="followers"/></a>
+<a href="https://github.com/AHMAD-0702?tab=repositories"><img src="https://img.shields.io/badge/Lahore-Pakistan-b967ff?style=for-the-badge&labelColor=070b10" alt="location"/></a>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
-## 👋 About Me
+<img src="assets/t-about.svg" width="100%" alt="whoami"/>
 
-```js
-const ahmad = {
-  role: "Front-End Developer",
-  focus: ["Web Animations", "Slide-show Experiences", "Interactive UI"],
-  location: "Pakistan 🇵🇰",            // ✏️ edit me
-  currently: "Building motion-rich interfaces",
-  learning: ["WebGL / Three.js", "Advanced GSAP", "Framer Motion"],
-  funFact: "I debug with console.log and a lot of ☕",
-};
-```
+<img src="assets/terminal.svg" width="100%" alt="terminal"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/t-focus.svg" width="100%" alt="core focus"/>
 
-## 🛠️ Tech Arsenal
+<img src="assets/bars.svg" width="100%" alt="core focus bars"/>
 
-<img src="assets/skills.svg" width="100%" alt="Skills marquee"/>
+<img src="assets/t-universe.svg" width="100%" alt="tech universe"/>
 
-<div align="center">
+<img src="assets/orbit.svg" width="100%" alt="tech orbit"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+<img src="assets/skills.svg" width="100%" alt="skills"/>
 
-</div>
+<img src="assets/t-lab.svg" width="100%" alt="ai lab"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/pipeline.svg" width="100%" alt="ML pipeline"/>
 
-## 📊 GitHub Stats
+<img src="assets/neural.svg" width="100%" alt="neural network"/>
 
-<div align="center">
+<img src="assets/vision.svg" width="100%" alt="computer vision"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AHMAD-0702&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff4ecd&border_radius=16" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-0702&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&border_radius=16" alt="languages"/>
-
-<img src="https://streak-stats.demolab.com?user=AHMAD-0702&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff4ecd&currStreakLabel=00f5ff" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMAD-0702&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a855f7&point=ff4ecd&area=true" width="100%" alt="activity"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 🚀 Featured Projects
+<img src="assets/t-projects.svg" width="100%" alt="projects"/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎞️ Project One
-Animated slide-show engine with smooth transitions.
-`HTML` `CSS` `JavaScript`
-[**View →**](https://github.com/AHMAD-0702)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Project Two
-Interactive landing page packed with scroll animations.
-`React` `GSAP` `Tailwind`
-[**View →**](https://github.com/AHMAD-0702)
-
-</td>
+<td width="50%"><a href="https://github.com/AHMAD-0702/Superior---University---Gold"><img src="assets/card-1.svg" width="100%" alt="Superior University Gold"/></a></td>
+<td width="50%"><a href="https://github.com/AHMAD-0702/50--Days--OF--Machine--Learning"><img src="assets/card-2.svg" width="100%" alt="50 Days of ML"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/AHMAD-0702/Skillyfyzone---Intern"><img src="assets/card-3.svg" width="100%" alt="Skillify Zone Internship"/></a></td>
+<td width="50%"><a href="https://github.com/AHMAD-0702/Organ---Donation---System"><img src="assets/card-4.svg" width="100%" alt="Organ Donation System"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/AHMAD-0702/Typing---Speed---Test--Game"><img src="assets/card-5.svg" width="100%" alt="Typing Speed Test Game"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/AHMAD-0702?tab=repositories"><img src="https://img.shields.io/badge/MORE_REPOSITORIES-%E2%86%92-00ff9c?style=for-the-badge&labelColor=070b10" alt="more"/></a></td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 🤝 Let's Connect
+<img src="assets/t-stats.svg" width="100%" alt="telemetry"/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AHMAD--0702-181717?style=for-the-badge&logo=github)](https://github.com/AHMAD-0702)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel)](https://YOUR-SITE.com)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AHMAD-0702&show_icons=true&hide_border=false&border_color=00ff9c&bg_color=070b10&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&ring_color=00ff9c&border_radius=18" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-0702&layout=compact&hide_border=false&border_color=00e5ff&bg_color=070b10&title_color=00e5ff&text_color=c9d1d9&border_radius=18" alt="languages"/>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+<img src="https://streak-stats.demolab.com?user=AHMAD-0702&background=070b10&border=00ff9c&stroke=1f2937&ring=00ff9c&fire=ff6b35&currStreakNum=00e5ff&currStreakLabel=00ff9c&sideNums=c9d1d9&sideLabels=8b9db3&dates=8b9db3&border_radius=18" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMAD-0702&bg_color=070b10&color=00ff9c&line=00e5ff&point=ffffff&area=true&area_color=00ff9c&hide_border=true&radius=18" width="100%" alt="activity graph"/>
+
+<img src="https://raw.githubusercontent.com/AHMAD-0702/AHMAD-0702/output/github-snake-dark.svg" width="100%" alt="snake"/>
+
+</div>
+
+<img src="assets/t-connect.svg" width="100%" alt="connect"/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ahmad0702"><img src="https://img.shields.io/badge/LinkedIn-ahmad0702-00e5ff?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=070b10" alt="LinkedIn"/></a>
+<a href="https://ahmadclimex.tiiny.site/"><img src="https://img.shields.io/badge/Portfolio-ahmadclimex-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=070b10" alt="Portfolio"/></a>
+<a href="https://github.com/AHMAD-0702"><img src="https://img.shields.io/badge/GitHub-AHMAD--0702-b967ff?style=for-the-badge&logo=github&logoColor=b967ff&labelColor=070b10" alt="GitHub"/></a>
+
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
