@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00f5ff"/><stop offset="1" stop-color="#ff4ecd"/></linearGradient></defs>
+<style>.l0{animation:s0 16s infinite;opacity:0}
+@keyframes s0{0%,0.00%{opacity:0;transform:translateY(12px)}3.75%{opacity:1;transform:none}20.00%{opacity:1;transform:none}23.75%{opacity:0;transform:translateY(-12px)}100%{opacity:0}}
+.l1{animation:s1 16s infinite;opacity:0}
+@keyframes s1{0%,25.00%{opacity:0;transform:translateY(12px)}28.75%{opacity:1;transform:none}45.00%{opacity:1;transform:none}48.75%{opacity:0;transform:translateY(-12px)}100%{opacity:0}}
+.l2{animation:s2 16s infinite;opacity:0}
+@keyframes s2{0%,50.00%{opacity:0;transform:translateY(12px)}53.75%{opacity:1;transform:none}70.00%{opacity:1;transform:none}73.75%{opacity:0;transform:translateY(-12px)}100%{opacity:0}}
+.l3{animation:s3 16s infinite;opacity:0}
+@keyframes s3{0%,75.00%{opacity:0;transform:translateY(12px)}78.75%{opacity:1;transform:none}95.00%{opacity:1;transform:none}98.75%{opacity:0;transform:translateY(-12px)}100%{opacity:0}}
+.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<text class="l0" x="500" y="42" text-anchor="middle" font-family="'Courier New',monospace" font-size="24" fill="url(#g)">Crafting buttery-smooth animations</text><text class="l1" x="500" y="42" text-anchor="middle" font-family="'Courier New',monospace" font-size="24" fill="url(#g)">Building slick slide-show experiences</text><text class="l2" x="500" y="42" text-anchor="middle" font-family="'Courier New',monospace" font-size="24" fill="url(#g)">Turning designs into living interfaces</text><text class="l3" x="500" y="42" text-anchor="middle" font-family="'Courier New',monospace" font-size="24" fill="url(#g)">Obsessed with pixels, motion &amp; detail</text>
+
+</svg>
